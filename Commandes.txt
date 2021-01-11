@@ -1,0 +1,3 @@
+cd /mnt/h/iut/Systemes/PROJET_SYSTEME/
+gcc main.c -lpthread
+./a.out
